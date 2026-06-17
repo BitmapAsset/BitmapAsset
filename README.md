@@ -45,6 +45,6 @@ Every Bitcoin block becomes sovereign territory you own. Every owner can deploy 
 - **Email:** bitmapholdings@gmail.com
 - **LinkedIn:** _coming soon_
 
-> **Open to AI / ML engineering roles.**
+> **Open to senior, founding & technical-leadership roles** — full-stack engineer across AI agents, Bitcoin / Lightning, and real-time 3D / web.
 
 <sub>Open source as <a href="https://github.com/BitmapAsset">@BitmapAsset</a> · building the open metaverse 🐸🦞</sub>
